@@ -63,6 +63,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private View mLoginFormView;
 
     @Override// test branch1
+
+    //https://github.com/kevinwangmy/MyGitAppFromLocalP1.git kevin
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
